@@ -15,5 +15,6 @@ This Power BI sales dashboard provides a comprehensive overview of key performan
 
 # OUTPUT OF THE TASK
 
-![image](https://github.com/user-attachments/assets/d12e2a1d-9b2e-48ee-ace8-9d707a4b420d)
+![image](https://github.com/user-attachments/assets/b1496315-4dfd-41fc-bb0e-61785067e78a)
+
 
